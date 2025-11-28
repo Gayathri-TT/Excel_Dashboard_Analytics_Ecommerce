@@ -20,31 +20,31 @@
 # 4. Business Questions 
 This projects focuses mainly on these business questions and dashboard was created based on these questions.
 
-i) Trend in the last 13 weeks
+i) Trend in the last 13 weeks- 
 Weekly order volume, revenue, and customer activity trend.Helps identify peak and low-performing weeks.
 
 ii) How many customers like to buy?
 Number of unique customers making purchases.Customer repeat rate and engagement trends.
 
-iii) Popular products 
+iii) Popular products-  
 Best-selling products by quantity and revenue.Top categories and contribution percentage.
 
-iv) Purchasing pattern based on gender
+iv) Purchasing pattern based on gender- 
 Male vs Female purchasing patterns.Contribution by gender toward revenue and volume.
 
-v) Customer geolocation
+v) Customer geolocation- 
 Customer distribution by region/state/city. Used Heat maps or stacked bar visuals for geographic insights.
 
-vi) Customers satisfaction 
+vi) Customers satisfaction-  
 Average rating. Rating distribution (1–5 stars).
 
-vii) Duration for shipping orders 
+vii) Duration for shipping orders-  
 Average delivery days. Distribution of delivery timelines.
 
 # 5. Dashboard Features
-*Interactive slicers
-*Dynamic charts 
-*Clean KPI cards for quick insights
+* Interactive slicers
+* Dynamic charts 
+* Clean KPI cards for quick insights
 
 # 6. Insights Provided
 
