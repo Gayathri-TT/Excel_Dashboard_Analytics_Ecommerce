@@ -4,11 +4,11 @@
 13 weeks of transactional data are analysed by the Sales &amp; Customer Insights Dashboard to identify patterns in customer happiness, product popularity, delivery schedules, and purchasing behaviour.  It helps to assists the stakeholders in tracking performance and providing clear answers to important business questions. 
 
 # 2. Project Objective
-*To consolidate and analyze weekly sales data
-*To understand customer buying behavior and preferences
-*To evaluate product performance and geographic distribution
-*To measure delivery efficiency and customer satisfaction
-*To provide clear insights using meaningful KPIs and visual charts
+* To consolidate and analyze weekly sales data
+* To understand customer buying behavior and preferences
+* To evaluate product performance and geographic distribution
+* To measure delivery efficiency and customer satisfaction
+* To provide clear insights using meaningful KPIs and visual charts
 
 # 3. Key Performance Indicators 
 * Total orders
